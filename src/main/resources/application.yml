@@ -1,0 +1,3 @@
+data.example: example
+spring:
+  output.ansi.enabled: ALWAYS
