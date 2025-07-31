@@ -1,3 +1,7 @@
 data.example: example
-spring:
-  output.ansi.enabled: ALWAYS
+app:
+  datasource:
+    url: jdbc:mysql://localhost/test
+    username: root
+    password: password
+    driver-class-name: com.mysql.cj.jdbc.Driver
