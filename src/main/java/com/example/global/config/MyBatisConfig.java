@@ -1,4 +1,4 @@
-package com.example.global;
+package com.example.global.config;
 
 import com.zaxxer.hikari.HikariConfig;
 import com.zaxxer.hikari.HikariDataSource;
